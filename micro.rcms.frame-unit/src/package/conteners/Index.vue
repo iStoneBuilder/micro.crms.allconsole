@@ -1,11 +1,12 @@
 <template>
   <div></div>
 </template>
+
 <script>
 export default {
-  name:"rcms-conteners",
+  name:"rcms-container",
   props: {
-    rcmsConteners: {
+    rcmsContainer: {
       type: Object,
     },
   },
